@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 
 
@@ -6093,6 +6094,8 @@
 </html>
 
 =======
+=======
+>>>>>>> Stashed changes
 { "compressionlevel":-1,
  "height":32,
  "infinite":false,
@@ -7331,5 +7334,9 @@
  "type":"map",
  "version":"1.8",
  "width":32
+<<<<<<< Updated upstream
 }
 >>>>>>> 5cea8879ee5e588eb3ef4aa8b055a556d2c55dcf
+=======
+}
+>>>>>>> Stashed changes
